@@ -95,6 +95,7 @@ makekernlib ()
 }
 makekernlib rumpxenif
 makekernlib rumpxenpci
+makekernlib rumpxendev
 
 makeuserlib ()
 {
